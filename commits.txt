@@ -1,0 +1,35 @@
+commit 3c4a1623a7aa30b7a13317c688d4e3af851ab209
+Author: Cristhian Pereira <cristhian.pereira@gongoplay.com>
+Date:   Thu Dec 17 01:09:55 2015 -0500
+
+    Subi mi portafolio
+
+commit e1ec0aa662aa0877e6f1daf1a0e14e2e83c69381
+Author: Cristhian Pereira <cristhian.pereira@gongoplay.com>
+Date:   Thu Dec 17 01:09:23 2015 -0500
+
+    Subi presentación
+
+commit c5bcd86afb3a0439dfce367ed820e5b6246b3650
+Author: Cristhian Pereira <cristhian.pereira@gongoplay.com>
+Date:   Thu Dec 17 01:05:46 2015 -0500
+
+    Subi redes sociales
+
+commit 71253a4fea148b6aca566967fa2fcc65af476f9f
+Author: Cristhian Pereira <cristhian.pereira@gongoplay.com>
+Date:   Thu Dec 17 00:55:42 2015 -0500
+
+    Subi Mi perfil web
+
+commit a29bf9d63494b09dc8ceb669891c600c81057625
+Author: Cristhian Pereira <cristhian.pereira@gongoplay.com>
+Date:   Thu Dec 17 00:53:41 2015 -0500
+
+    Subi foto y mi nombre
+
+commit 5cfb46c600cef0b802dd4ffe53e85350c8a51db2
+Author: Cristhian Pereira <cristhian.pereira@gongoplay.com>
+Date:   Thu Dec 17 00:46:20 2015 -0500
+
+    Estos son los archivos bases
